@@ -4,7 +4,7 @@
 
 ```text
 ╔═══════════════════════════════════════════════════════════╗
-║   > iniciando sistema...                                  ║
+║   > iniciando sistema...                       [OK]       ║
 ║   > carregando perfil: Lucas.exe              [OK]       ║
 ║   > ADS em progresso...                       [ON]       ║
 ║   > café: suficiente                          [OK]       ║
@@ -23,9 +23,7 @@
 
 Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
 
-A Psicologia moldou a forma como enxergo problemas: escuta ativa, identificação de padrões e foco na experiência do usuário fazem parte da maneira como penso e desenvolvo soluções.
-
-Atualmente estou construindo uma base sólida em desenvolvimento de software, seguindo a trilha da graduação. Meu foco está em **Python** e **Banco de Dados (SQL)**, evoluindo para o desenvolvimento **Back-end** e, futuramente, **Front-end com React**, com o objetivo de construir uma formação consistente em **Desenvolvimento Full Stack**.
+Hoje construo minha base em **Python** e **Banco de Dados (SQL)**, evoluindo para **Back-end** e, futuramente, **React**, com o objetivo de desenvolver aplicações **Full Stack**.
 
 ```javascript
 const lucas = {
@@ -33,20 +31,17 @@ const lucas = {
 
   education: "ADS • Instituto Infnet",
 
-  currentFocus: [
+  current: [
     "Python",
-    "SQL",
-    "Programming Logic"
+    "SQL"
   ],
 
-  nextSteps: [
+  next: [
     "Back-end",
     "React"
   ],
 
-  journey: "Full Stack Development",
-
-  philosophy: "Learn deeply. Build consistently.",
+  goal: "Full Stack",
 
   status: "☕ Building one project at a time."
 };
@@ -58,7 +53,7 @@ const lucas = {
 
 <div align="center">
 
-![Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge&logo=googlescholar&logoColor=e8c96b)
+![Instituto Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge&logo=googlescholar&logoColor=e8c96b)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -73,9 +68,9 @@ const lucas = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldyas&show_icons=true&theme=merko&bg_color=0d1117&border_color=1a2535&icon_color=4dd0c4&title_color=e8c96b&text_color=8b9ab0&hide_border=false)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=coldyas&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=merko&bg_color=0d1117&border_color=1a2535&title_color=e8c96b&text_color=8b9ab0)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -84,18 +79,19 @@ const lucas = {
 ## `> learning.path`
 
 ```text
-✔ Psicologia
+✔ Psychology
 
-▶ Análise e Desenvolvimento de Sistemas
+└── Analysis & Systems Development
 
-    • Python
-    • Banco de Dados (SQL)
+    ├── Python
 
-○ Desenvolvimento Back-end
+    ├── SQL
 
-○ React & Desenvolvimento Front-end
+    ├── Back-end
 
-○ Desenvolvimento Full Stack
+    ├── React
+
+    └── Full Stack
 ```
 
 ---
@@ -114,11 +110,9 @@ const lucas = {
 <div align="center">
 
 ```text
-// feito com ☕ + curiosidade + consistência
-// © Lucas · um commit de cada vez.
+// made with ☕ + curiosity + consistency
 ```
 
 ![](https://komarev.com/ghpvc/?username=coldyas&color=4dd0c4&style=flat-square&label=visitors)
 
 </div>
-````
