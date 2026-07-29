@@ -23,7 +23,11 @@
 
 Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
 
-Hoje construo minha base em **Python** e **Banco de Dados (SQL)**, evoluindo para **Back-end** e, futuramente, **React**, com o objetivo de desenvolver aplicações **Full Stack**.
+🎯 Atualmente meu foco é **Desenvolvimento Back-end**, estudando **Python**, **SQL** e **Inglês**.
+
+🚀 Em breve, começarei a compartilhar projetos enquanto construo minha jornada como desenvolvedor.
+
+💡 Meu objetivo é dominar o desenvolvimento **Back-end** e, futuramente, expandir meus conhecimentos para **React**, evoluindo para **Full Stack**.
 
 ```javascript
 const lucas = {
@@ -31,13 +35,20 @@ const lucas = {
 
   education: "ADS • Instituto Infnet",
 
-  current: [
+  focus: "Back-end Development",
+
+  learning: [
     "Python",
-    "SQL"
+    "SQL",
+    "English"
   ],
 
-  next: [
-    "Back-end",
+  building: [
+    "Projects",
+    "APIs"
+  ],
+
+  future: [
     "React"
   ],
 
@@ -49,7 +60,7 @@ const lucas = {
 
 ---
 
-## `> stack.current`
+## `> current.stack`
 
 <div align="center">
 
@@ -64,7 +75,7 @@ const lucas = {
 
 ---
 
-## `> stats.log`
+## `> github.stats`
 
 <div align="center">
 
@@ -72,11 +83,15 @@ const lucas = {
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=github_dark&hide_border=true"/>
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=coldyas&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## `> learning.path`
+## `> current.roadmap`
 
 ```text
 ✔ Psychology
@@ -87,11 +102,27 @@ const lucas = {
 
     ├── SQL
 
-    ├── Back-end
+    ├── English
+
+    ├── Back-end Development
+
+    ├── APIs
 
     ├── React
 
     └── Full Stack
+```
+
+---
+
+## `> projects`
+
+```text
+📂 projects/
+
+└── coming soon...
+
+Building Back-end applications with Python.
 ```
 
 ---
