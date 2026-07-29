@@ -23,11 +23,13 @@
 
 Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
 
-🎯 Atualmente meu foco é **Desenvolvimento Back-end**, estudando **Python**, **SQL** e **Inglês**.
+🎯 Atualmente meu foco é **Desenvolvimento Back-end**, estudando **Python**, **SQL** e **Inglês** para construir uma base sólida em desenvolvimento de software.
 
-🚀 Em breve, começarei a compartilhar projetos enquanto construo minha jornada como desenvolvedor.
+🚀 Em breve, começarei a compartilhar meus projetos aqui no GitHub enquanto evoluo como desenvolvedor.
 
-💡 Meu objetivo é dominar o desenvolvimento **Back-end** e, futuramente, expandir meus conhecimentos para **React**, evoluindo para **Full Stack**.
+☁️ No futuro, pretendo aprofundar meus conhecimentos em **Cloud Computing** para complementar minha formação em Back-end.
+
+💡 Meu objetivo é construir aplicações escaláveis e evoluir para um desenvolvedor **Back-end**, com conhecimentos em **Cloud** e, futuramente, também em **React**, ampliando minhas habilidades como **Full Stack**.
 
 ```javascript
 const lucas = {
@@ -49,10 +51,11 @@ const lucas = {
   ],
 
   future: [
+    "Cloud",
     "React"
   ],
 
-  goal: "Full Stack",
+  goal: "Back-end Engineer",
 
   status: "☕ Building one project at a time."
 };
@@ -108,9 +111,11 @@ const lucas = {
 
     ├── APIs
 
+    ├── Cloud Computing
+
     ├── React
 
-    └── Full Stack
+    └── Back-end Engineer
 ```
 
 ---
