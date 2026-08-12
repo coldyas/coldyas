@@ -4,66 +4,31 @@
 
 ```text
 ╔═══════════════════════════════════════════════════════════╗
-║   > iniciando sistema...                       [OK]       ║
-║   > carregando perfil: Lucas.exe              [OK]       ║
-║   > ADS em progresso...                       [ON]       ║
-║   > café: suficiente                          [OK]       ║
+║   > Lucas.exe                                [ONLINE]     ║
+║   > ADS • Instituto Infnet                    [ON]       ║
+║   > Back-end / Python                         [FOCUS]    ║
+║   > café                                      [OK]       ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-<div align="center">
-
 ### `< hello.world />`
 
+**Lucas** · Psicólogo · Estudante de Análise e Desenvolvimento de Sistemas
+
+Atualmente construindo minha base em **Python, SQL e lógica de programação**, com foco em **Back-end**.
+
+Também estou estudando **Inglês** e desenvolvendo meus primeiros projetos para transformar aprendizado em prática.
+
+**Próximos passos:** APIs → React → Full Stack
+
 </div>
-
-Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
-
-🎯 Atualmente meu foco é **Desenvolvimento Back-end**, construindo minha base em **Python**, **SQL** e fundamentos de programação.
-
-📚 Também estou estudando **Inglês** e desenvolvendo projetos práticos para consolidar meus conhecimentos.
-
-🚀 Meu objetivo é me desenvolver como **Back-end**, construindo uma base sólida em Python e SQL. Futuramente, pretendo expandir meus conhecimentos para **React** e seguir em direção ao desenvolvimento **Full Stack**.
-
-```javascript
-const lucas = {
-  background: "Psychology",
-  education: "ADS • Instituto Infnet",
-  focus: "Back-end Development",
-
-  learning: [
-    "Python",
-    "SQL",
-    "English"
-  ],
-
-  building: [
-    "Python Projects",
-    "Back-end Applications"
-  ],
-
-  future: [
-    "APIs",
-    "React"
-  ],
-
-  goal: "Full Stack",
-
-  status: "☕ Building one project at a time."
-};
-```
 
 ---
 
-## `> current.stack`
+## `> tech.stack`
 
 <div align="center">
 
-![Instituto Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge\&logo=googlescholar\&logoColor=e8c96b)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=sqlite\&logoColor=4dd0c4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
@@ -74,31 +39,19 @@ const lucas = {
 
 ---
 
-## `> featured.project`
+## `> featured`
 
 ### 🧮 Python Calculator
 
-Meu primeiro projeto desenvolvido durante meus estudos de **Python**.
+Meu primeiro projeto em Python: uma calculadora de terminal desenvolvida para praticar **variáveis, entrada de dados, condicionais, operações matemáticas e lógica de programação**.
 
-Uma calculadora simples executada no terminal, criada para praticar os fundamentos da linguagem e transformar os conceitos estudados em um projeto funcional.
+**Python · Terminal**
 
-**Conceitos praticados:**
-
-* Variáveis
-* `input()`
-* Conversão de tipos
-* Condicionais `if / elif / else`
-* Estruturas de repetição
-* Operações matemáticas
-* Lógica de programação
-
-**Stack:** Python
-
-🔗 [View Repository](https://github.com/coldyas/calculadora-python)
+[→ Ver repositório](https://github.com/coldyas/calculadora-python)
 
 ---
 
-## `> github.stats`
+## `> stats`
 
 <div align="center">
 
@@ -106,57 +59,24 @@ Uma calculadora simples executada no terminal, criada para praticar os fundament
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=coldyas&theme=github-dark&hide_border=true"/>
-
 </div>
 
 ---
 
-## `> learning.path`
+## `> roadmap`
 
 ```text
-✔ Psychology
-
-└── Analysis & Systems Development
-
-    ├── Python
-    ├── SQL
-    ├── English
-    ├── Back-end Development
-    ├── APIs
-    ├── React
-    └── Full Stack
+Python → SQL → Back-end → APIs → React → Full Stack
 ```
 
 ---
-
-## `> projects`
-
-```text
-📂 projects/
-
-├── 🧮 Python Calculator
-│   └── First Python project
-│
-└── 🚧 More projects coming soon...
-```
-
----
-
-## `> connect.exe`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=4dd0c4)](https://www.linkedin.com/in/lucpert/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=e8c96b)](mailto:pertussattilucas@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ```text
 // made with ☕ + curiosity + consistency
