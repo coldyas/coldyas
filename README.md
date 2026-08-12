@@ -23,111 +23,79 @@
 
 Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
 
-🎯 Atualmente meu foco é **Desenvolvimento Back-end**, estudando **Python**, **SQL** e **Inglês** para construir uma base sólida em desenvolvimento de software.
+Atualmente estou construindo minha base em **Python** e **Banco de Dados (SQL)**, seguindo a trilha da graduação. Minha trajetória segue em direção ao desenvolvimento **Back-end** e, futuramente, ao **Front-end com React**, com o objetivo de me tornar um desenvolvedor **Full Stack**.
 
-🚀 Em breve, começarei a compartilhar meus projetos aqui no GitHub enquanto evoluo como desenvolvedor.
+```python
+lucas = {
+    "background": "Psychology",
+    "education": "ADS • Instituto Infnet",
 
-☁️ No futuro, pretendo aprofundar meus conhecimentos em **Cloud Computing** para complementar minha formação em Back-end.
+    "current_focus": [
+        "Python",
+        "SQL"
+    ],
 
-💡 Meu objetivo é construir aplicações escaláveis e evoluir para um desenvolvedor **Back-end**, com conhecimentos em **Cloud** e, futuramente, também em **React**, ampliando minhas habilidades como **Full Stack**.
+    "future": [
+        "Back-end",
+        "React",
+        "Full Stack"
+    ],
 
-```javascript
-const lucas = {
-  background: "Psychology",
-
-  education: "ADS • Instituto Infnet",
-
-  focus: "Back-end Development",
-
-  learning: [
-    "Python",
-    "SQL",
-    "English"
-  ],
-
-  building: [
-    "Projects",
-    "APIs"
-  ],
-
-  future: [
-    "Cloud",
-    "React"
-  ],
-
-  goal: "Back-end Engineer",
-
-  status: "☕ Building one project at a time."
-};
+    "status": "☕ Building one project at a time."
+}
 ```
 
 ---
 
-## `> current.stack`
+## `> stack.current`
 
 <div align="center">
 
 ![Instituto Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge&logo=googlescholar&logoColor=e8c96b)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=e8c96b)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
 ---
 
-## `> github.stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=coldyas&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=coldyas&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## `> current.roadmap`
+## `> learning.path`
 
 ```text
-✔ Psychology
+✔ Psicologia
 
-└── Analysis & Systems Development
+▶ Análise e Desenvolvimento de Sistemas
 
     ├── Python
+    └── Banco de Dados (SQL)
 
-    ├── SQL
+○ Desenvolvimento Back-end
 
-    ├── English
+○ React & Desenvolvimento Front-end
 
-    ├── Back-end Development
-
-    ├── APIs
-
-    ├── Cloud Computing
-
-    ├── React
-
-    └── Back-end Engineer
+○ Desenvolvimento Full Stack
 ```
 
 ---
 
-## `> projects`
+## `> github.focus`
 
 ```text
-📂 projects/
+> current mission
 
-└── coming soon...
+Construir uma base sólida em programação
+e desenvolver projetos ao longo da graduação.
 
-Building Back-end applications with Python.
+> repositories
+
+Os projetos mais relevantes ficam destacados
+na seção de repositórios fixados do meu perfil.
+
+> next milestone
+
+Back-end com Python
 ```
 
 ---
