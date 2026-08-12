@@ -23,39 +23,92 @@
 
 Sou **Lucas**, psicólogo e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**.
 
-Atualmente estou construindo minha base em **Python** e **Banco de Dados (SQL)**, seguindo a trilha da graduação. Minha trajetória segue em direção ao desenvolvimento **Back-end** e, futuramente, ao **Front-end com React**, com o objetivo de me tornar um desenvolvedor **Full Stack**.
+🎯 Atualmente meu foco é **Desenvolvimento Back-end**, construindo minha base em **Python**, **SQL** e fundamentos de programação.
 
-```python
-lucas = {
-    "background": "Psychology",
-    "education": "ADS • Instituto Infnet",
+📚 Também estou estudando **Inglês** e desenvolvendo projetos práticos para consolidar meus conhecimentos.
 
-    "current_focus": [
-        "Python",
-        "SQL"
-    ],
+🚀 Meu objetivo é me desenvolver como **Back-end**, construindo uma base sólida em Python e SQL. Futuramente, pretendo expandir meus conhecimentos para **React** e seguir em direção ao desenvolvimento **Full Stack**.
 
-    "future": [
-        "Back-end",
-        "React",
-        "Full Stack"
-    ],
+```javascript
+const lucas = {
+  background: "Psychology",
+  education: "ADS • Instituto Infnet",
+  focus: "Back-end Development",
 
-    "status": "☕ Building one project at a time."
-}
+  learning: [
+    "Python",
+    "SQL",
+    "English"
+  ],
+
+  building: [
+    "Python Projects",
+    "Back-end Applications"
+  ],
+
+  future: [
+    "APIs",
+    "React"
+  ],
+
+  goal: "Full Stack",
+
+  status: "☕ Building one project at a time."
+};
 ```
 
 ---
 
-## `> stack.current`
+## `> current.stack`
 
 <div align="center">
 
-![Instituto Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge&logo=googlescholar&logoColor=e8c96b)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=e8c96b)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Instituto Infnet](https://img.shields.io/badge/Instituto_Infnet-0d1117?style=for-the-badge\&logo=googlescholar\&logoColor=e8c96b)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=sqlite\&logoColor=4dd0c4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+
+</div>
+
+---
+
+## `> featured.project`
+
+### 🧮 Python Calculator
+
+Meu primeiro projeto desenvolvido durante meus estudos de **Python**.
+
+Uma calculadora simples executada no terminal, criada para praticar os fundamentos da linguagem e transformar os conceitos estudados em um projeto funcional.
+
+**Conceitos praticados:**
+
+* Variáveis
+* `input()`
+* Conversão de tipos
+* Condicionais `if / elif / else`
+* Estruturas de repetição
+* Operações matemáticas
+* Lógica de programação
+
+**Stack:** Python
+
+🔗 [View Repository](https://github.com/coldyas/calculadora-python)
+
+---
+
+## `> github.stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=coldyas&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldyas&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=coldyas&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -64,38 +117,30 @@ lucas = {
 ## `> learning.path`
 
 ```text
-✔ Psicologia
+✔ Psychology
 
-▶ Análise e Desenvolvimento de Sistemas
+└── Analysis & Systems Development
 
     ├── Python
-    └── Banco de Dados (SQL)
-
-○ Desenvolvimento Back-end
-
-○ React & Desenvolvimento Front-end
-
-○ Desenvolvimento Full Stack
+    ├── SQL
+    ├── English
+    ├── Back-end Development
+    ├── APIs
+    ├── React
+    └── Full Stack
 ```
 
 ---
 
-## `> github.focus`
+## `> projects`
 
 ```text
-> current mission
+📂 projects/
 
-Construir uma base sólida em programação
-e desenvolver projetos ao longo da graduação.
-
-> repositories
-
-Os projetos mais relevantes ficam destacados
-na seção de repositórios fixados do meu perfil.
-
-> next milestone
-
-Back-end com Python
+├── 🧮 Python Calculator
+│   └── First Python project
+│
+└── 🚧 More projects coming soon...
 ```
 
 ---
@@ -104,8 +149,8 @@ Back-end com Python
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4dd0c4)](https://www.linkedin.com/in/lucpert/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8c96b)](mailto:pertussattilucas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=4dd0c4)](https://www.linkedin.com/in/lucpert/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=e8c96b)](mailto:pertussattilucas@gmail.com)
 
 </div>
 
@@ -117,6 +162,6 @@ Back-end com Python
 // made with ☕ + curiosity + consistency
 ```
 
-![](https://komarev.com/ghpvc/?username=coldyas&color=4dd0c4&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=coldyas\&color=4dd0c4\&style=flat-square\&label=visitors)
 
 </div>
