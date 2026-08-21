@@ -4,10 +4,10 @@
 
 ```text
 ╔═══════════════════════════════════════════════════════════╗
-║   > Lucas.exe                                [ONLINE]     ║
-║   > ADS • Instituto Infnet                    [ON]       ║
-║   > Back-end / Python                         [FOCUS]    ║
-║   > café                                      [OK]       ║
+║   > iniciando sistema...                       [OK]       ║
+║   > carregando perfil: Lucas.exe              [OK]       ║
+║   > ADS em progresso...                       [ON]       ║
+║   > café: suficiente                          [OK]       ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -15,11 +15,11 @@
 
 **Lucas** · Psicólogo · Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente construindo minha base em **Python, SQL e lógica de programação**, com foco em **Back-end**.
+Atualmente construindo minha base em **Python**, **SQL** e fundamentos de programação, com foco em **Desenvolvimento Back-end**.
 
-Também estou estudando **Inglês** e desenvolvendo meus primeiros projetos para transformar aprendizado em prática.
+Também estou estudando **Inglês** e desenvolvendo projetos práticos para transformar aprendizado em experiência.
 
-**Próximos passos:** APIs → React → Full Stack
+Meu objetivo é evoluir no **Back-end** e, futuramente, expandir meus conhecimentos para **React**, seguindo em direção ao desenvolvimento **Full Stack**.
 
 </div>
 
@@ -30,28 +30,15 @@ Também estou estudando **Inglês** e desenvolvendo meus primeiros projetos para
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=sqlite\&logoColor=4dd0c4)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge\&logo=sqlite\&logoColor=4dd0c4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 
 </div>
 
 ---
 
-## `> featured`
-
-### 🧮 Python Calculator
-
-Meu primeiro projeto em Python: uma calculadora de terminal desenvolvida para praticar **variáveis, entrada de dados, condicionais, operações matemáticas e lógica de programação**.
-
-**Python · Terminal**
-
-[→ Ver repositório](https://github.com/coldyas/calculadora-python)
-
----
-
-## `> stats`
+## `> github.stats`
 
 <div align="center">
 
@@ -66,7 +53,29 @@ Meu primeiro projeto em Python: uma calculadora de terminal desenvolvida para pr
 ## `> roadmap`
 
 ```text
-Python → SQL → Back-end → APIs → React → Full Stack
+Python
+  ↓
+SQL / SQLite
+  ↓
+Back-end
+  ↓
+APIs
+  ↓
+React
+  ↓
+Full Stack
+```
+
+---
+
+## `> about`
+
+```text
+Background      → Psychology
+Education       → ADS • Instituto Infnet
+Current Focus   → Back-end Development
+Learning        → Python • SQL • English
+Future          → React • Full Stack
 ```
 
 ---
