@@ -15,11 +15,11 @@
 
 **Lucas** · Psicólogo · Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente construindo minha base em **Python**, **SQL** e fundamentos de programação, com foco em **Desenvolvimento Back-end**.
+Atualmente estou construindo minha base em **desenvolvimento de software**, com foco em **Back-end com Python** e, paralelamente, iniciando meus estudos em **Front-end com JavaScript e React**.
 
-Também estou estudando **Inglês** e desenvolvendo projetos práticos para transformar aprendizado em experiência.
+Também estou estudando **SQL** e **Inglês**, enquanto desenvolvo projetos práticos para transformar aprendizado em experiência.
 
-Meu objetivo é evoluir no **Back-end** e, futuramente, expandir meus conhecimentos para **React**, seguindo em direção ao desenvolvimento **Full Stack**.
+Meu objetivo é evoluir nas duas áreas e, futuramente, atuar como **desenvolvedor Full Stack**.
 
 </div>
 
@@ -30,11 +30,31 @@ Meu objetivo é evoluir no **Back-end** e, futuramente, expandir meus conhecimen
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge\&logo=sqlite\&logoColor=4dd0c4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=4dd0c4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
 
 </div>
+
+---
+
+## `> focus`
+
+```text
+Back-end
+└── Python
+
+Database
+└── SQL
+
+Front-end
+└── JavaScript / React
+
+Currently learning
+└── English
+```
 
 ---
 
@@ -54,16 +74,17 @@ Meu objetivo é evoluir no **Back-end** e, futuramente, expandir meus conhecimen
 
 ```text
 Python
-  ↓
-SQL / SQLite
-  ↓
-Back-end
-  ↓
-APIs
-  ↓
-React
-  ↓
-Full Stack
+  │
+  └── Back-end
+       │
+       └── APIs
+              │
+              │
+JavaScript ───┤
+  │           │
+  └── React ──┘
+              ↓
+          Full Stack
 ```
 
 ---
@@ -73,9 +94,13 @@ Full Stack
 ```text
 Background      → Psychology
 Education       → ADS • Instituto Infnet
-Current Focus   → Back-end Development
-Learning        → Python • SQL • English
-Future          → React • Full Stack
+
+Back-end        → Python
+Front-end       → JavaScript • React
+Database        → SQL
+Learning        → English
+
+Goal            → Full Stack
 ```
 
 ---
