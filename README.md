@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 ![banner](./44c7c1f3fbd68b2151c37af5f08198f1.gif)
 
@@ -15,11 +15,9 @@
 
 **Lucas** · Psicólogo · Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente estou construindo minha base em **desenvolvimento de software**, com foco em **Back-end com Python** e, paralelamente, iniciando meus estudos em **Front-end com JavaScript e React**.
+Atualmente estou construindo minha base em **desenvolvimento de software**, com foco em **Back-end com Python**.
 
-Também estou estudando **SQL** e **Inglês**, enquanto desenvolvo projetos práticos para transformar aprendizado em experiência.
-
-Meu objetivo é evoluir nas duas áreas e, futuramente, atuar como **desenvolvedor Full Stack**.
+Também estudo **SQL** e desenvolvo projetos práticos para transformar conhecimento em experiência. Tenho interesse em aprender tecnologias de Front-end e, futuramente, evoluir para o desenvolvimento **Full Stack**.
 
 </div>
 
@@ -29,12 +27,12 @@ Meu objetivo é evoluir nas duas áreas e, futuramente, atuar como **desenvolved
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=4dd0c4)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4dd0c4)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 
 </div>
 
@@ -47,13 +45,11 @@ Back-end
 └── Python
 
 Database
-└── SQL
+├── SQL
+└── SQLite
 
-Front-end
-└── JavaScript / React
-
-Currently learning
-└── English
+Future learning
+└── Front-end → Full Stack
 ```
 
 ---
@@ -77,12 +73,13 @@ Python
   │
   └── Back-end
        │
+       ├── SQL / Databases
+       │
        └── APIs
               │
+              ↓
+           Projects
               │
-JavaScript ───┤
-  │           │
-  └── React ──┘
               ↓
           Full Stack
 ```
@@ -95,10 +92,10 @@ JavaScript ───┤
 Background      → Psychology
 Education       → ADS • Instituto Infnet
 
-Back-end        → Python
-Front-end       → JavaScript • React
-Database        → SQL
-Learning        → English
+Main focus      → Back-end
+Language        → Python
+Database        → SQL • SQLite
+Tools           → VS Code • Git • GitHub
 
 Goal            → Full Stack
 ```
@@ -107,8 +104,8 @@ Goal            → Full Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=4dd0c4)](https://www.linkedin.com/in/lucpert/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=e8c96b)](mailto:pertussattilucas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4dd0c4)](https://www.linkedin.com/in/lucpert/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8c96b)](mailto:pertussattilucas@gmail.com)
 
 <br>
 
@@ -116,6 +113,6 @@ Goal            → Full Stack
 // made with ☕ + curiosity + consistency
 ```
 
-![](https://komarev.com/ghpvc/?username=coldyas\&color=4dd0c4\&style=flat-square\&label=visitors)
+![](https://komarev.com/ghpvc/?username=coldyas&color=4dd0c4&style=flat-square&label=visitors)
 
 </div>
